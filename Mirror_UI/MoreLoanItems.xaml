@@ -9,6 +9,16 @@
     <Grid>
         <Label Content="Mary" HorizontalAlignment="Left" Height="46" Margin="76,19,0,0" VerticalAlignment="Top" Width="114" FontSize="24"/>
         <Button Content="&lt;" HorizontalAlignment="Left" Height="50" Margin="18,15,0,0" VerticalAlignment="Top" Width="50" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Height="83" Margin="365,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" FontSize="32" TextAlignment="Right"><Run Text="4:20 PM"/><LineBreak/><Run Text="30 March 2017"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="128" Margin="90,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="422" FontSize="30" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.14"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Text="Mary, you have 2 items on loan."/></TextBlock>
 
     </Grid>
 </Window>

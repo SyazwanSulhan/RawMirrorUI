@@ -9,6 +9,19 @@
     <Grid>
         <Label Content="Mary" HorizontalAlignment="Left" Height="78" Margin="76,19,0,0" VerticalAlignment="Top" Width="114" FontSize="24"/>
         <Button Content="&lt;" HorizontalAlignment="Left" Height="50" Margin="18,15,0,0" VerticalAlignment="Top" Width="50" FontSize="24"/>
+        <Label Content="Events" HorizontalAlignment="Left" Height="52" Margin="250,95,0,0" VerticalAlignment="Top" Width="98" FontSize="30"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="329" Margin="50,171,0,0" VerticalAlignment="Top" Width="504"/>
+        <Image HorizontalAlignment="Left" Height="316" Margin="50,171,0,0" VerticalAlignment="Top" Width="504" Source="C:\Users\FYP\documents\visual studio 2017\Projects\Mirror_UI\Mirror_UI\Images\imdaevent1.jpg"/>
+        <TextBlock HorizontalAlignment="Left" Height="87" Margin="50,413,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" TextAlignment="Center" FontSize="24"><Run Text="05"/><LineBreak/><Run Text="APR"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="74" Margin="151,413,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337" FontSize="18"><Run Text="Date : 05 April 2017 8:00 AM - 11:30 AM"/><LineBreak/><Run Text="Location: Suntec Singapore Convention &amp; Exhibition Centre, Level 3"/></TextBlock>
+        <Button Content="&gt;" HorizontalAlignment="Left" Margin="502,434,0,0" VerticalAlignment="Top" Width="34" Height="29" FontSize="16"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="323" Margin="50,521,0,0" VerticalAlignment="Top" Width="504">
+            <Image HorizontalAlignment="Left" Height="232" Margin="0,0,-2,0" VerticalAlignment="Top" Width="504" Source="C:\Users\FYP\documents\visual studio 2017\Projects\Mirror_UI\Mirror_UI\Images\imdaevent2.jpg"/>
+        </Border>
+        <TextBlock HorizontalAlignment="Left" Height="87" Margin="50,757,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107" TextAlignment="Center" FontSize="24"><Run Text="05"/><LineBreak/><Run Text="APR"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="74" Margin="151,757,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337" FontSize="18"><Run Text="Date : 05 April 2017 8:00 AM - 11:30 AM"/><LineBreak/><Run Text="Location: Suntec Singapore Convention &amp; Exhibition Centre, Level 3"/></TextBlock>
+        <Button Content="&gt;" HorizontalAlignment="Left" Margin="502,778,0,0" VerticalAlignment="Top" Width="34" Height="29" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Left" Height="83" Margin="365,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="217" FontSize="32" TextAlignment="Right"><Run Text="4:20 PM"/><LineBreak/><Run Text="30 March 2017"/></TextBlock>
 
     </Grid>
 </Window>

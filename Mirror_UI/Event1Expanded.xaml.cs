@@ -17,7 +17,7 @@ namespace Mirror_UI
     /// <summary>
     /// Interaction logic for MoreLoanItems.xaml
     /// </summary>
-    public partial class MoreEvents : Window
+    public partial class Event1Expanded : Window
     {
         public MoreEvents()
         {
